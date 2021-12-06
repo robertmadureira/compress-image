@@ -1,0 +1,1 @@
+Função: Redimensionar e comprimir uma imagem.
